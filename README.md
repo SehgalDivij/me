@@ -1,2 +1,2 @@
 # sehgaldivij.github.io
-Github Pages for my account
+This is my personal website
